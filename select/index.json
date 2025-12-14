@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Circle of Love",
+  "base_artist": "宮下 愛 (CV.村上奈津実)",
+  "createdAt": "2025-12-14T04:45:36.704865Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Circle of Love",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/01_Circle_of_Love_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Circle of Love",
+      "artist": "The Steve Miller Band",
+      "has_synced": true,
+      "path": "select/02_Circle_of_Love_The_Steve_Miller_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Circle Of Love",
+      "artist": "Eric Bellinger",
+      "has_synced": false,
+      "path": "select/03_Circle_Of_Love_Eric_Bellinger.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Circle Of Love",
+      "artist": "Tamara Walker",
+      "has_synced": false,
+      "path": "select/04_Circle_Of_Love_Tamara_Walker.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Circle of Love",
+      "artist": "Steve Miller Band",
+      "has_synced": true,
+      "path": "select/05_Circle_of_Love_Steve_Miller_Band.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Circle Of Love",
+      "artist": "Jennifer Nettles",
+      "has_synced": true,
+      "path": "select/06_Circle_Of_Love_Jennifer_Nettles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Circle Of Love",
+      "artist": "Jennifer Nettles",
+      "has_synced": true,
+      "path": "select/07_Circle_Of_Love_Jennifer_Nettles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Circle Of Love (Caught In The Middle)",
+      "artist": "Sister Sledge",
+      "has_synced": true,
+      "path": "select/08_Circle_Of_Love_(Caught_In_The_Middle)_Sister_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Circle Of Love",
+      "artist": "Sister Sledge",
+      "has_synced": true,
+      "path": "select/09_Circle_Of_Love_Sister_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Circle of Love",
+      "artist": "Miller, Steve & Band",
+      "has_synced": true,
+      "path": "select/10_Circle_of_Love_Miller,_Steve_&_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Circle Of Love",
+      "artist": "Steve Miller Band",
+      "has_synced": true,
+      "path": "select/11_Circle_Of_Love_Steve_Miller_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Circle of Love",
+      "artist": "Francis On My Mind",
+      "has_synced": false,
+      "path": "select/12_Circle_of_Love_Francis_On_My_Mind.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Circle of Love (Caught in the Middle)",
+      "artist": "Sister Sledge",
+      "has_synced": true,
+      "path": "select/13_Circle_of_Love_(Caught_in_the_Middle)_Sister_Sledge.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Circle of Love",
+      "artist": "Steve Miller Band",
+      "has_synced": true,
+      "path": "select/14_Circle_of_Love_Steve_Miller_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Circle of Love",
+      "artist": "宮下愛(CV.村上奈津実)",
+      "has_synced": false,
+      "path": "select/pl_01_Circle_of_Love_宮下愛(CV.村上奈津実).txt"
+    }
+  ]
+}
